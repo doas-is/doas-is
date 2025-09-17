@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Doua Ben Rejeb, a Computer Science student specializing in Big Data and Data Analysis, passionate about applying AI and machine learning to generate insights that drive efficiency and optimized ROI. I enjoy blending technical expertise with creativity, and I thrive in collaborative environments with passionate teammates.  
+I’m Doua Ben Rejeb, a Computer Science student specializing in Big Data and Data Analysis, passionate about applying AI and machine learning to generate insights that drive efficiency and optimized ROI. I enjoy blending technical expertise with creativity, and I thrive in collaborative environments with passionate teammates.  
 
 ### 🔭 I’m currently working on:
 - Applying data science, machine learning, and analytics to solve real-world business problems.  
